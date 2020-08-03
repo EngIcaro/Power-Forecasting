@@ -10,16 +10,16 @@ Clone the project in your computer and open project with Spyder
 
 For build in linux desktop is necessary:
 
-* (Python 3.6)[https://www.python.org/downloads/release/python-360/]
-* (Tensorflow)[https://www.tensorflow.org/install]
-* (Keras)[https://keras.io/]
-* (Sklearn)[https://scikit-learn.org/stable/]
-* (Numpy)[https://numpy.org/]
-* (Pandas)[https://pandas.pydata.org/]
+* [Python 3.6](https://www.python.org/downloads/release/python-360/)
+* [Tensorflow](https://www.tensorflow.org/install)
+* [Keras](https://keras.io/)
+* [Sklearn](https://scikit-learn.org/stable/)
+* [Numpy](https://numpy.org/)
+* [Pandas](https://pandas.pydata.org/)
 
 ## Long Short-Term Memory(LSTM)
 
-lstm construída neste trabalho
+lstm built in this work
 
-<img src="img/lstmmulti.png" width="430" height ="600" align="right">  
+<img src="img/lstmmulti.png" width="800" height ="600" align="center">  
 
